@@ -12,6 +12,8 @@ import mapa3 from "@/assets/mapa-3.png";
 import mapa4 from "@/assets/mapa-4.png";
 import mapa5 from "@/assets/mapa-5.png";
 import mapa6 from "@/assets/mapa-6.png";
+import mapa7 from "@/assets/mapa-7.jpg";
+import mapa8 from "@/assets/mapa-8.jpg";
 
 const mapImages = [
   { src: mapa1, alt: "Mapa do Setor 1" },
@@ -20,6 +22,8 @@ const mapImages = [
   { src: mapa4, alt: "Mapa Chácaras Brasil" },
   { src: mapa5, alt: "Mapa Chácaras Bem Vindas (Parte 1)" },
   { src: mapa6, alt: "Mapa Chácaras Bem Vindas (Parte 2)" },
+  { src: mapa7, alt: "Mapa Chácaras Brasil - Gleba B" },
+  { src: mapa8, alt: "Mapa Mansões Santa Marina" },
 ];
 
 const MapSection = () => {
