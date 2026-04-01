@@ -11,7 +11,7 @@ import mapa2 from "@/assets/mapa-2.png";
 import mapa3 from "@/assets/mapa-3.png";
 import mapa4 from "@/assets/mapa-4.png";
 import mapa5 from "@/assets/mapa-5.png";
-import mapa6 from "@/assets/mapa-6.png";
+import mapa6 from "@/assets/mapa-6.jpg";
 import mapa7 from "@/assets/mapa-7.jpg";
 import mapa8 from "@/assets/mapa-8.jpg";
 
