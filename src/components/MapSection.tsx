@@ -14,6 +14,7 @@ import mapa5 from "@/assets/mapa-5.png";
 import mapa6 from "@/assets/mapa-6.jpg";
 import mapa7 from "@/assets/mapa-7.jpg";
 import mapa8 from "@/assets/mapa-8.jpg";
+import mapa9 from "@/assets/mapa-9.jpg";
 
 const mapImages = [
   { src: mapa1, alt: "Mapa do Setor 1" },
@@ -24,6 +25,7 @@ const mapImages = [
   { src: mapa6, alt: "Vale do Sol" },
   { src: mapa7, alt: "Mapa Chácaras Brasil - Gleba B" },
   { src: mapa8, alt: "Mapa Mansões Santa Marina" },
+  { src: mapa9, alt: "Residencial Unimorar" },
 ];
 
 const MapSection = () => {
