@@ -21,7 +21,7 @@ const mapImages = [
   { src: mapa3, alt: "Mapa Chácaras Santa Maria" },
   { src: mapa4, alt: "Mapa Chácaras Brasil" },
   { src: mapa5, alt: "Mapa Chácaras Bem Vindas (Parte 1)" },
-  { src: mapa6, alt: "Mapa Chácaras Bem Vindas (Parte 2)" },
+  { src: mapa6, alt: "Vale do Sol" },
   { src: mapa7, alt: "Mapa Chácaras Brasil - Gleba B" },
   { src: mapa8, alt: "Mapa Mansões Santa Marina" },
 ];
