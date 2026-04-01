@@ -25,8 +25,10 @@ const AboutSection = () => {
         <h2 className="font-heading text-3xl md:text-4xl font-bold text-foreground text-center mb-4">
           Sobre a APROMEL
         </h2>
-        <p className="font-body text-muted-foreground text-center max-w-2xl mx-auto mb-14">
-          Somos uma associação dedicada a representar e apoiar os moradores e produtores do setor de chácaras, promovendo qualidade de vida e desenvolvimento sustentável.
+        <p className="font-body text-muted-foreground text-center max-w-2xl mx-auto mb-14 whitespace-pre-line">
+          A APROMEL (Associação Pro-Melhoramento dos Setores de Chácaras Benvinda, Brasil, Santa Maria, Santa Marina e Adjacências) consolida-se como uma entidade representativa essencial na defesa dos interesses coletivos da população local, atuando diretamente nas pautas de infraestrutura, mobilidade urbana e qualidade de vida.
+          {"\n\n"}
+          Fundada em 15 de março de 1998, com registro oficial em 25 de maio de 2001 e primeira eleição realizada em 12 de maio de 2001, a associação retoma suas atividades em 18 de julho de 2024, reafirmando seu papel estratégico diante de um cenário de crescimento acelerado e desafios estruturais urgentes.
         </p>
 
         <div className="grid md:grid-cols-3 gap-8 max-w-4xl mx-auto">
