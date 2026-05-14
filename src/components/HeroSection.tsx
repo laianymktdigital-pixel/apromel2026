@@ -21,6 +21,12 @@ const HeroSection = () => {
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a
+            className="inline-block bg-primary text-primary-foreground font-body font-semibold px-8 py-3 rounded-lg hover:opacity-90 transition-opacity"
+            href="#historico"
+          >
+            HISTÓRICO
+          </a>
+          <a
             className="inline-block bg-secondary text-secondary-foreground font-body font-semibold px-8 py-3 rounded-lg hover:opacity-90 transition-opacity"
             href="https://docs.google.com/forms/d/e/1FAIpQLSeD9lsWzsnOV4wUxZNdjc5PbfgsKfleDsWx_POevp8BtCrLOg/viewform?usp=sharing&ouid=118027619783942011646"
             target="_blank" rel="noopener noreferrer">
