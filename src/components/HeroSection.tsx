@@ -22,7 +22,8 @@ const HeroSection = () => {
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a
             className="inline-block bg-primary text-primary-foreground font-body font-semibold px-8 py-3 rounded-lg hover:opacity-90 transition-opacity"
-            href="#historico"
+            href={`${import.meta.env.BASE_URL}historico-apromel.pdf`}
+            target="_blank" rel="noopener noreferrer"
           >
             HISTÓRICO
           </a>
