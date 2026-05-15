@@ -8,9 +8,8 @@ const Footer = () => {
           <img src={logoApromel} alt="APROMEL" className="h-8 w-8 object-contain" />
           <span className="font-heading text-sm font-bold text-primary-foreground">APROMEL</span>
         </div>
-        <p className="font-body text-xs text-primary-foreground/70">© 2026 APROMEL — Todos os direitos reservados.
-
-        </p>
+        <p className="font-body text-xs text-primary-foreground/70">© 2026 APROMEL — Todos os direitos reservados.</p>
+        <p className="font-body text-xs text-primary-foreground/50 mt-1">CNPJ: 01.493.063/0001-90</p>
       </div>
     </footer>);
 
