@@ -17,7 +17,7 @@ const HeroSection = () => {
           APROMEL
         </h1>
         <p className="font-body text-lg md:text-xl text-primary-foreground/90 mb-8 leading-relaxed">
-          Associação Pro-Melhoramento dos setores de chácaras Benvinda, Brasil, Santa Maria, Santa Marina de Valparaíso de Goiás.
+          Associação Pro-Melhoramento dos setores de chácaras Benvinda, Brasil, Santa Maria, Santa Marina de Valparaíso de Goiás e Adjacências
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a
